@@ -34,3 +34,4 @@ renegiotate_tls.patch
 default_bits.patch
 debian-changes-1.0.1c-3~bpo60+1
 debian-changes-1.0.1c-4~gost
+update-expired-smime-test-certs.patch
